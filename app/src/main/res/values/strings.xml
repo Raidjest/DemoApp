@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="test_email">hadtrist@mail.ru</string>
+    <string name="test_password">123456789</string>
+    <string name="test_phone">+7905.....</string>
+    <string name="test_name">Lazarev AA</string>
+    <string name="hintText">*********</string>
+</resources>
